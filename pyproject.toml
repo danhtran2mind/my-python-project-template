@@ -1,0 +1,17 @@
+[project]
+name = "danhtran2mind_sample"
+version = "0.1.1"
+description = "no"
+authors = [
+    {name = "me"}
+]
+license = {text = "mit"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.25.0"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
