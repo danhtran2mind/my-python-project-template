@@ -6,7 +6,7 @@
 cd my-python-project-template
 pip install poetry
 poetry install       # Install dependencies
-pip install .       # Install the myrepo123 package
+# pip install .       # Install local package if needed
 cd ..
 ```
 
