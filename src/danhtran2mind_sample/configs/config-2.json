@@ -1,0 +1,17 @@
+{
+  "key_1": {
+    "key_1-1": {
+      "key_1-1-1": [
+        1,
+        2
+      ],
+      "key_1-1-2": "abc"
+    },
+    "key_1-2": "ok"
+  },
+  "key_2": {
+    "news": true,
+    "old": false
+  },
+  "key_3": true
+}
