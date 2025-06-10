@@ -1,4 +1,7 @@
 # This is a template of Python Project
+## Introduction
+
+This Python project template is designed to promote clean, readable, and maintainable code, fostering a peaceful coding experience. By following best practices like clear naming, modular design, and consistent formatting, this template aims to make development enjoyable and stress-free. I’ve done my best to create a structure that’s easy to understand, maintain, and scale, ensuring coding feels calm and approachable for everyone involved.
 
 ## How to create `pyproject.toml` and set it can use for `pip install`
 
