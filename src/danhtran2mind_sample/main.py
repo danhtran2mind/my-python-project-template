@@ -16,7 +16,7 @@ def fetch_google_homepage() -> str:
 
 # Add the MyClass definition here
 class MyClass:
-    def __init__(self, name: str="sample_name") -> None:
+    def __init__(self, name: str = "sample_name") -> None:
         self.name = name
         print(f"MyClass instance created with name: {self.name}")
 
