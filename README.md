@@ -16,7 +16,7 @@ cd ..
 ## 
 
 
-## 5 Ways to run Python Project
+## 6 Ways to run Python Project
 ### 1. Using `Args`
 ```bash
 python <python_file.py> --args_` value --args_2 value
@@ -52,3 +52,4 @@ docker run -p <host_port:container_port> <Dockerfile>
 # host_port:container_port: 5000:5000
 # <Dockerfile>: Dockerfile
 ```
+### 6. Using bash file such as `*.sh`
